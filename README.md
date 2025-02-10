@@ -2,6 +2,8 @@
 
 This project provides a Python-based utility for visualizing and analyzing 3D medical images using the SimpleITK library. It includes functionalities for reading, normalizing, labeling, and visualizing image slices, along with animations for dynamic visualization.
 
+<img src="https://github.com/rightpunchChen/slice_viewer/blob/main/demo.png" width="50%">
+
 ## Requirements
 
 - Python 3.7
